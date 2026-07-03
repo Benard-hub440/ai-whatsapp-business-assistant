@@ -183,7 +183,7 @@ Some features I plan to add include:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Benard-hub440/ai-whatsapp-business-assistant.git
 ```
 
 Navigate into the project:

@@ -1,0 +1,17 @@
+project/
+
+│
+├── app.py              # Flask routes
+├── ai.py               # Ollama communication
+├── memory.py           # Conversation storage
+├── loader.py           # Load business JSON
+├── orders.py           # receives and saves order
+├── prompts.py          # srores all the prompts for the model
+|__request_parser.py    #useful in future when you change service from Twilio
+|--validator.py         # validates the products and ensures they are in the json files
+├── businesses/
+│      hardware.json  
+|run_app.py             #Keeps track of all the dependencies and ensures they are all ok.   
+│
+├── products/
+│      hardware.json

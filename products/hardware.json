@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "512GB SSD",
+        "category": "Storage",
+        "price": 6500,
+        "currency": "KES",
+        "stock": 25,
+        "unit": "Piece",
+        "description": "512GB Solid State Drive suitable for desktops and laptops.",
+        "available": true
+    },
+    {
+        "id": 2,
+        "name": "8GB DDR4 RAM",
+        "category": "Memory",
+        "price": 3200,
+        "currency": "KES",
+        "stock": 40,
+        "unit": "Piece",
+        "description": "8GB DDR4 desktop memory module.",
+        "available": true
+    },
+    {
+        "id": 3,
+        "name": "Intel i5 6th Gen",
+        "category": "Processor",
+        "price": 12000,
+        "currency": "KES",
+        "stock": 10,
+        "unit": "Piece",
+        "description": "Intel Core i5 6th Generation processor.",
+        "available": true
+    }
+]
